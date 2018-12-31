@@ -1,0 +1,74 @@
+Tabelle
+RS - Randscherbe
+	Rand - http://archwort.dainst.org/de/term/2635
+
+Benennung Felder
+
+	ID - Identifier https://www.wikidata.org/wiki/Q853614
+
+	ID interim - temporärer Identifier
+
+	Zchng - Zeichnungsnummer setzt sich zusammen aus Nummer eines DinA3 Blattes und eine fortlaufen pro Blatt vergebene lateinische Ziffer für die einzelnen gezeichneten Keramikfragmente
+		Zeichnung - http://archwort.dainst.org/de/term/10557
+		Nummer - Identifier
+
+	Fundnummer - fünf- bis siebenstellige Nummer, die einem Teil der Inventarnummer des Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern entspricht. Inventarnummern umfassen hier typischerweise Funde einer Materialgruppe (z. B. Keramikfunde, Tierknochen, Lithk etc.), die aus einem Kontext geborgen wurden (z.B. aus einer Grube, aus einem Teilabschnitt einer Grube, einem Grabungsquadranten).
+		Inventarnummer - https://www.wikidata.org/wiki/Property:P217
+		Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern - http://d-nb.info/gnd/10137095-7
+
+	Anzahl - Anzahl der Fragmente
+
+	DM_min - geschätzter mindestens Durchmesser der Gefäßmündung 
+		Durchmesser - http://archwort.dainst.org/de/term/1678
+		minimum - https://www.wikidata.org/wiki/Q10585806
+		
+	DM_max - geschätzter maximaler Durchmesser der Gefäßmündung 
+		Durchmesser - http://archwort.dainst.org/de/term/1678
+		maximum - https://www.wikidata.org/wiki/Q10578722			
+			
+	Proz - Erhaltung in Prozent der ehemaligen - als rund rekonstruierten - Gefäßmündung bzw. des Randes
+		Rand - http://archwort.dainst.org/de/term/2635
+		Prozent - https://www.wikidata.org/wiki/Q11229		
+	
+	Farb_a - Farbe des Scherbens auf der ehemaligen Außenseite des vollständigen Gefäßes
+	
+	Farb_i - Farbe des Scherbens auf der ehemaligen Innenseite des vollständigen Gefäßes
+	
+	Farb_kern - Farbe im Kern / Mittelteil des Scherbens. Sichtbar nur im Bruch des Scherbens
+	
+	Mag_min - Magerung Korngröße minimum
+		Magerung - http://archwort.dainst.org/de/term/10557
+		Korngröße - https://www.wikidata.org/wiki/Q466491
+		minimum - https://www.wikidata.org/wiki/Q10585806
+
+	Mag_max - Magerung Korngröße maximum
+		Magerung - http://archwort.dainst.org/de/term/10557
+		Korngröße - https://www.wikidata.org/wiki/Q466491
+		maximum - https://www.wikidata.org/wiki/Q10578722
+		
+	Anmerk - Anmerkungen in Textform zu verschiedenen Aspekten; hier meinst genutzt, um Zierelemente zu beschreiben
+	
+	Typ - Zuweisung zu den Tpen nach Schuldt und Kempke. 
+		Typ - Typ http://archwort.dainst.org/de/term/3100
+		Schuldt -  	http://d-nb.info/gnd/132779005
+		Kempke - http://d-nb.info/gnd/1151467650
+	
+	Randform - Im Zuge der Aufarbeitung vorgenommene Zuweisung zu im Material beobachteten Formen, die als "Randformen" bezeichnet wurden
+		Randform - http://archwort.dainst.org/de/term/2636
+		
+	joints - Anpassende Keramikfragmente, die unter einer anderen Inventarnummer erfasst wurden
+	
+	Anmerk_2 - Anmerkungen in Textform zu verschiedenen Aspekten; hier meinst genutzt, um Zierelemente zu beschreiben
+	
+	Mag_min - Magerung Korngröße minimum
+		Magerung - http://archwort.dainst.org/de/term/10557
+		Korngröße - https://www.wikidata.org/wiki/Q466491
+		minimum - https://www.wikidata.org/wiki/Q10585806
+
+	Mag_max - Magerung Korngröße maximum
+		Magerung - http://archwort.dainst.org/de/term/10557
+		Korngröße - https://www.wikidata.org/wiki/Q466491
+		maximum - https://www.wikidata.org/wiki/Q10578722
+
+	Zenodo - Link auf Zeichnung des Fragmentes, die auf Zenodo archiviert ist
+		zendodo - https://zenodo.org/
